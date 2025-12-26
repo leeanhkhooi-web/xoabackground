@@ -1,3 +1,6 @@
-rembg==2.0.55
-Pillow== 11.1.0
-streamlit==1.42.2
+streamlit
+rembg
+pillow
+numpy
+opencv-python-headless
+onnxruntime
