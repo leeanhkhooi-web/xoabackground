@@ -1,5 +1,5 @@
-streamlit
-rembg
+streamlit>=1.30
+rembg==2.0.57
 pillow
 numpy
 opencv-python-headless
